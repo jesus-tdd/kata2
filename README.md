@@ -20,5 +20,5 @@ Se usa un _record_ para representar los pokemon del _dataset_.
 El dataset en cuestión: [github.com/lgreski/pokemonData](https://github.com/lgreski/pokemonData/blob/master/Pokemon.csv)
 
 ## 
-[Todas las Katas](https://www.youtube.com/playlist?list=PL_MLZ_QLgMQ8v5oYzwturBAajvCAg-p8c)
+[Ver vídeo](https://www.youtube.com/watch?v=jYWSIUyjz1I) | [Todas las Katas](https://www.youtube.com/playlist?list=PL_MLZ_QLgMQ8v5oYzwturBAajvCAg-p8c)
 
